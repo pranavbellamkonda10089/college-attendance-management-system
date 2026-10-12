@@ -50,11 +50,11 @@ The database contains four tables:
 
 ## Project Files
 
-- `01_create_database.sql` – Creates the database.
-- `02_create_tables.sql` – Creates relational tables.
-- `03_insert_sample_data.sql` – Inserts sample data.
-- `04_attendance_analysis.sql` – Contains analytical queries.
-- `05_create_views.sql` – Creates reusable attendance views.
+- `create_database.sql` – Creates the database.
+- `create_tables.sql` – Creates relational tables.
+- `insert_sample_data.sql` – Inserts sample data.
+- `attendance_analysis.sql` – Contains analytical queries.
+- `create_views.sql` – Creates reusable attendance views.
 
 ## How to Run
 
